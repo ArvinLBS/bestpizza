@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#Title {
+    padding: 10px;
+    display: flexbox;
+    justify-self: center;
+    padding-bottom: 50px;
+}
+
+#DivBody {
+
+        background-image: linear-gradient(to top, rgb(227, 223, 25), rgb(197, 154, 13));
+}
+
+#FoodoraImg {
+    width: 60px;
+    height: 60px;
+    float: right;
+}
+
+footer {
+    background-color: black;
+}
+
+#MenyDiv {
+    padding: 10px;
+    display: flexbox;
+    justify-self: center;
+    padding-bottom: 50px;
+}
+#MenyDiv h1 {
+
+    padding-bottom: 20px;
+}
+
+#MenyDiv p {
+
+    padding-bottom: 20px;
+}
+
